@@ -59,7 +59,7 @@ Además, se enviarán correos electrónicos a los propietarios de las bases de d
 - Mejorando la documentación
 - Para contribuir, sigue estos pasos:
 
-Haz un fork del repositorio.
+- Haz un fork del repositorio.
 - Crea una rama nueva para tu función (git checkout -b feature/tu-nueva-funcion).
 - Haz un commit con tus cambios (git commit -m 'Añadir nueva función').
 - Sube la rama (git push origin feature/tu-nueva-funcion).
