@@ -57,5 +57,6 @@ Haz un fork del repositorio.
 - Haz un commit con tus cambios (git commit -m 'Añadir nueva función').
 - Sube la rama (git push origin feature/tu-nueva-funcion).
 - Abre un Pull Request.
-**Licencia**
+
+- **Licencia**
 Este proyecto está bajo la Licencia MIT.
