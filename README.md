@@ -58,5 +58,5 @@ Haz un fork del repositorio.
 - Sube la rama (git push origin feature/tu-nueva-funcion).
 - Abre un Pull Request.
 
-- **Licencia**
+**Licencia**
 Este proyecto está bajo la Licencia MIT.
