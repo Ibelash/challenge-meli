@@ -53,9 +53,9 @@ Además, se enviarán correos electrónicos a los propietarios de las bases de d
 -Para contribuir, sigue estos pasos:
 
 Haz un fork del repositorio.
-Crea una rama nueva para tu función (git checkout -b feature/tu-nueva-funcion).
-Haz un commit con tus cambios (git commit -m 'Añadir nueva función').
-Sube la rama (git push origin feature/tu-nueva-funcion).
-Abre un Pull Request.
-Licencia
+- Crea una rama nueva para tu función (git checkout -b feature/tu-nueva-funcion).
+- Haz un commit con tus cambios (git commit -m 'Añadir nueva función').
+- Sube la rama (git push origin feature/tu-nueva-funcion).
+- Abre un Pull Request.
+**Licencia**
 Este proyecto está bajo la Licencia MIT.
