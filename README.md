@@ -66,4 +66,4 @@ Haz un fork del repositorio.
 - Abre un Pull Request.
 
 **Licencia**
-Este proyecto está bajo la Licencia MIT.
+- Este proyecto está bajo la Licencia MIT.
