@@ -24,11 +24,13 @@ pip install -r requirements.txt
 **Configuración**
 Archivo JSON:
 Asegúrate de tener el archivo correos.json en el mismo directorio que el script. Este archivo debe contener la información estructurada en formato JSON.
-Configuración del Servidor SMTP:
+
+**Configuración del Servidor SMTP:**
 Edita el script prueba_meli_final.py para incluir la configuración de tu servidor SMTP:
 Host del servidor SMTP
 Puerto del servidor SMTP
 Credenciales de autenticación (si es necesario)
+
 - **Uso**
 Ejecuta el script:
 python3 prueba_meli_final.py
