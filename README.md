@@ -41,13 +41,8 @@ guardar_csv(df, ruta): Guarda el DataFrame en un archivo CSV.
 enviar_correo(destinatario, asunto, cuerpo): Envía un correo electrónico al destinatario especificado.
 - **Ejemplo de Uso**
 Al ejecutar el script, deberías ver un archivo archivo.csv con contenido similar a:
-db_name	owner_email	classification
-Mercado_pago_server_1	juan.perez@mercadopago.com	high
-Mercado_pago_clientes_vip_2	maria.gomez@mercadopago.com	high
-Mercado_pago_test_1	carlos.ruiz@mercadopago.com	low
-Mercado_pago_qa_2	juan.perez@mercadopago.com	low
-Mercado_pago_tarjetas	maria.gomez@mercadopago.com	high
-Mercado_pago_tarjetas_qa	carlos.ruiz@mercadopago.com	low
+![image](https://github.com/Ibelash/challenge-meli/assets/62447516/aebefa75-3c09-4c4e-b7e0-8111f6a758e7)
+
 Además, se enviarán correos electrónicos a los propietarios de las bases de datos.
 
 **Contribución**
