@@ -52,8 +52,11 @@ Además, se enviarán correos electrónicos a los propietarios de las bases de d
 ¡Contribuciones son bienvenidas! Puedes ayudar de las siguientes maneras:
 
 -Reportando errores
+
 -Añadiendo nuevas funciones
+
 -Mejorando la documentación
+
 -Para contribuir, sigue estos pasos:
 
 Haz un fork del repositorio.
