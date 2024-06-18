@@ -1,3 +1,6 @@
+
+![4d4b](https://github.com/Ibelash/challenge-meli/assets/62447516/bc5c5339-bc96-468c-8cb4-d5250a0d5c8c)
+
 # **Mercado Pago Data Management**
 Este proyecto es un script de Python diseñado para procesar y gestionar datos de correos electrónicos asociados con bases de datos de Mercado Pago. 
 Utiliza un archivo JSON como entrada y genera un archivo CSV con la información procesada.
