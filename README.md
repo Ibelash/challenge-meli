@@ -20,6 +20,7 @@ El script realiza las siguientes acciones:
 cd mercado-pago-data-management
 - Instala las dependencias:
 pip install -r requirements.txt
+
 **Configuración**
 Archivo JSON:
 Asegúrate de tener el archivo correos.json en el mismo directorio que el script. Este archivo debe contener la información estructurada en formato JSON.
