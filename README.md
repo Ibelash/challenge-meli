@@ -49,7 +49,9 @@ Al ejecutar el script, deberías ver un archivo archivo.csv con contenido simila
 Además, se enviarán correos electrónicos a los propietarios de las bases de datos.
 
 **Contribución**
+
 ¡Contribuciones son bienvenidas! Puedes ayudar de las siguientes maneras:
+
 -Reportando errores
 -Añadiendo nuevas funciones
 -Mejorando la documentación
